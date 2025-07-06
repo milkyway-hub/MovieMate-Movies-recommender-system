@@ -27,14 +27,11 @@ With so many movies available online, it can be difficult for users to decide wh
 - **IDE/Platform**: Jupyter Notebook, VS Code
 - **Data Source**: IMDb Movies
 
-##Key Learnings
+## Key Learnings
+
 Web scraping and data extraction
-
 Data cleaning and visualization
-
 How recommendation systems work in real life
-
 How to evaluate model performance using different metrics
-
 Improved skills in Python programming and project organization
 
